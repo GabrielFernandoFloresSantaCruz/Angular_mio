@@ -1,0 +1,28 @@
+<h1>PERFIL</h1>
+
+<form (ngSubmit)="updateProfile()" #profileForm="ngForm">
+  <label>
+    <strong>Nombre:</strong>
+    <input type="text" [(ngModel)]="profile.name" name="name" required>
+  </label>
+  <br>
+
+  <label>
+    <strong>Email:</strong>
+    <input type="email" [(ngModel)]="profile.email" name="email" required>
+  </label>
+  <br>
+
+  <label>
+    <strong>Teléfono:</strong>
+    <input type="tel" [(ngModel)]="profile.phone" name="phone">
+  </label>
+  <br>
+
+  <label>
+    <strong>UID:</strong> {{ profile.id }}
+  </label>
+  <br><br>
+
+  <button type="submit">Actualizar Perfil</button>
+</form>

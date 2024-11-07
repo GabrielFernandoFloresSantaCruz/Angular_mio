@@ -1,0 +1,24 @@
+[
+    {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "year": "2010",
+    "gender": "Sci-Fi",
+    "duration": 148,
+    "producer": "Warner Bros.",
+    "synopsis": "A skilled thief is given a chance at redemption if he can successfully perform inception on a powerful businessman.",
+    "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+    "poster": "https://m.media-amazon.com/images/I/51oDjqLp7XL._AC_SY679_.jpg"
+    },
+    {
+        "title": "Shutter Island",
+        "director": "Martin Scorsese",
+        "year": "2007",
+        "gender": "Thriller",
+        "duration": 138,
+        "producer": "Warner Bros.",
+        "synopsis": "A U.S Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",
+        "trailer": "https://www.youtube.com/watch?v=5iaYLCiq5RM",
+        "poster": "https://m.media-amazon.com/images/I/51oDjqLp7XL._AC_SY679_.jpg"
+    }
+]
